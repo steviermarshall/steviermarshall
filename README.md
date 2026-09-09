@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @steviermarshall
 - 👀 I’m interested in Full Stack Devleopment 
-- 🌱 I’m currently learning Responsive Web Design 
+- 🌱 I’m currently learning Machine learning 
 - 💞️ I’m looking to collaborate on CSS, HTML, PYTHON Projects
-- 📫 How to reach me Twitter @Stevienotsteven & Cell: 646-904-3737
+- 📫 How to reach me https://www.linkedin.com/in/stevie-marshall-9b2b55145
 
 <!---
 steviermarshall/steviermarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
